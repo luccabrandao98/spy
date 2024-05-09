@@ -1,7 +1,7 @@
 import streamlit as st
 import altair as alt
 import os
-from sqlalchemy import create_engine, VARCHAR, Float, Date
+from sqlalchemy import create_engine, VARCHAR, Float, Date, text
 import pandas as pd
 from datetime import datetime
 
@@ -36,7 +36,7 @@ def load_data():
     # Close the connection
     engine.dispose()
 
-    query = 'select * from test'
+    query = text('select * from test')
     df_ = pd.read_sql(query, con=connection)
     return df_
 
