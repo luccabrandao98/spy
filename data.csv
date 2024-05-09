@@ -1,0 +1,501 @@
+created_at,product,store_name,price,percentage_discount,total_discount
+2024-03-25,Mizuno Wave Rider,Kicks Kingdom,277.56,0.2588,71.83
+2024-04-19,Converse Chuck Taylor,Sneaker Haven,196.27,0.0814,15.98
+2024-02-29,Puma Suede,Shoe Sanctuary,218.6,0.1266,27.67
+2024-02-09,Adidas Stan Smith,Shoe Sanctuary,239.09,0.1096,26.2
+2024-04-27,Brooks Ghost,Sole Central,178.85,0.1567,28.03
+2024-04-11,Brooks Ghost,Sole Central,183.06,0.11359999999999999,20.8
+2024-03-31,Puma Suede,Kicks Kingdom,197.29,0.0747,14.74
+2024-03-26,Vans Old Skool,Kicks Kingdom,200.23,0.28350000000000003,56.77
+2024-04-16,New Balance 574,Sole Central,244.43,0.2612,63.85
+2024-03-24,Converse Chuck Taylor,Kicks Kingdom,186.31,0.022099999999999998,4.12
+2024-03-18,Asics Gel-Kayano,Sole Central,242.47,0.13720000000000002,33.27
+2024-04-10,Asics Gel-Kayano,Kicks Kingdom,243.8,0.2491,60.73
+2024-03-27,Brooks Ghost,Shoe Sanctuary,180.8,0.1856,33.56
+2024-04-30,Brooks Ghost,Footwear Emporium,176.17,0.009000000000000001,1.59
+2024-03-28,Vans Old Skool,Sneaker Haven,195.45,0.1065,20.82
+2024-03-10,Asics Gel-Kayano,Kicks Kingdom,216.8,0.16620000000000001,36.03
+2024-04-02,Converse Chuck Taylor,Shoe Sanctuary,203.5,0.21350000000000002,43.45
+2024-02-14,Puma Suede,Footwear Emporium,210.44,0.22030000000000002,46.36
+2024-04-15,Mizuno Wave Rider,Kicks Kingdom,271.99,0.0705,19.18
+2024-02-17,New Balance 574,Sole Central,233.97,0.25079999999999997,58.68
+2024-03-29,Converse Chuck Taylor,Kicks Kingdom,191.5,0.1549,29.66
+2024-03-09,Vans Old Skool,Footwear Emporium,178.91,0.22640000000000002,40.51
+2024-03-30,Asics Gel-Kayano,Footwear Emporium,239.11,0.1966,47.01
+2024-03-21,Mizuno Wave Rider,Kicks Kingdom,275.53,0.237,65.3
+2024-02-12,Nike Air Max,Shoe Sanctuary,307.0,0.1603,49.21
+2024-03-23,Puma Suede,Sneaker Haven,198.82,0.008199999999999999,1.63
+2024-05-01,Converse Chuck Taylor,Shoe Sanctuary,201.29,0.11779999999999999,23.71
+2024-04-23,Reebok Classic Leather,Footwear Emporium,208.52,0.2528,52.71
+2024-04-06,Reebok Classic Leather,Sole Central,224.44,0.17980000000000002,40.35
+2024-03-18,Puma Suede,Sneaker Haven,201.73,0.0038,0.77
+2024-04-28,Mizuno Wave Rider,Kicks Kingdom,271.46,0.1558,42.29
+2024-02-15,Vans Old Skool,Shoe Sanctuary,188.17,0.08710000000000001,16.39
+2024-03-30,Adidas Stan Smith,Footwear Emporium,248.17,0.1437,35.66
+2024-02-07,Mizuno Wave Rider,Sneaker Haven,283.17,0.12480000000000001,35.34
+2024-02-06,Puma Suede,Sole Central,201.31,0.0432,8.7
+2024-02-11,Nike Air Max,Sole Central,291.39,0.1097,31.97
+2024-04-11,Asics Gel-Kayano,Kicks Kingdom,218.92,0.18309999999999998,40.08
+2024-03-09,Vans Old Skool,Kicks Kingdom,175.96,0.0666,11.72
+2024-04-01,Reebok Classic Leather,Kicks Kingdom,210.7,0.0275,5.79
+2024-03-06,Converse Chuck Taylor,Sole Central,186.81,0.132,24.66
+2024-04-03,Puma Suede,Sole Central,199.22,0.0834,16.61
+2024-03-28,Mizuno Wave Rider,Sneaker Haven,273.69,0.2565,70.2
+2024-04-17,Asics Gel-Kayano,Footwear Emporium,235.09,0.21100000000000002,49.6
+2024-04-04,Asics Gel-Kayano,Kicks Kingdom,237.52,0.0027,0.64
+2024-02-07,New Balance 574,Sneaker Haven,250.67,0.0256,6.42
+2024-03-27,Mizuno Wave Rider,Footwear Emporium,262.7,0.0935,24.56
+2024-05-05,Vans Old Skool,Sole Central,197.55,0.2655,52.45
+2024-04-22,New Balance 574,Sole Central,238.55,0.1344,32.06
+2024-03-25,Puma Suede,Kicks Kingdom,198.37,0.030600000000000002,6.07
+2024-04-06,Puma Suede,Sneaker Haven,222.95,0.2011,44.84
+2024-05-05,Vans Old Skool,Sole Central,204.16,0.2818,57.53
+2024-02-10,Converse Chuck Taylor,Sole Central,186.5,0.26649999999999996,49.7
+2024-03-24,Nike Air Max,Shoe Sanctuary,301.08,0.04650000000000001,14.0
+2024-04-26,Mizuno Wave Rider,Shoe Sanctuary,268.89,0.23129999999999998,62.19
+2024-04-17,Adidas Stan Smith,Sole Central,239.13,0.2114,50.55
+2024-04-07,Asics Gel-Kayano,Kicks Kingdom,229.75,0.0258,5.93
+2024-03-12,New Balance 574,Shoe Sanctuary,233.62,0.207,48.36
+2024-04-15,Asics Gel-Kayano,Kicks Kingdom,228.15,0.1705,38.9
+2024-03-08,Converse Chuck Taylor,Kicks Kingdom,209.71,0.16510000000000002,34.62
+2024-05-02,Puma Suede,Kicks Kingdom,205.05,0.1582,32.44
+2024-02-17,Mizuno Wave Rider,Sneaker Haven,276.48,0.022799999999999997,6.3
+2024-02-18,Puma Suede,Kicks Kingdom,211.48,0.086,18.19
+2024-03-02,New Balance 574,Kicks Kingdom,227.1,0.0681,15.47
+2024-03-06,New Balance 574,Sneaker Haven,253.78,0.1518,38.52
+2024-03-07,Nike Air Max,Sneaker Haven,285.78,0.1325,37.87
+2024-02-29,Asics Gel-Kayano,Footwear Emporium,217.63,0.025099999999999997,5.46
+2024-04-23,Reebok Classic Leather,Kicks Kingdom,205.11,0.1602,32.86
+2024-02-14,Brooks Ghost,Sole Central,175.18,0.1306,22.88
+2024-03-23,Nike Air Max,Footwear Emporium,286.44,0.23879999999999998,68.4
+2024-05-04,Adidas Stan Smith,Footwear Emporium,262.97,0.2758,72.53
+2024-04-18,New Balance 574,Sole Central,254.8,0.1648,41.99
+2024-04-26,Converse Chuck Taylor,Shoe Sanctuary,213.65,0.1593,34.03
+2024-02-16,Reebok Classic Leather,Kicks Kingdom,206.3,0.16899999999999998,34.86
+2024-03-10,New Balance 574,Sneaker Haven,245.1,0.15109999999999998,37.03
+2024-02-15,Mizuno Wave Rider,Sole Central,256.9,0.2889,74.22
+2024-03-06,Brooks Ghost,Kicks Kingdom,187.96,0.0966,18.16
+2024-03-18,Mizuno Wave Rider,Footwear Emporium,280.78,0.26649999999999996,74.83
+2024-03-08,Brooks Ghost,Sneaker Haven,186.14,0.2141,39.85
+2024-04-11,Converse Chuck Taylor,Sneaker Haven,210.84,0.1246,26.27
+2024-03-04,Puma Suede,Footwear Emporium,219.75,0.2248,49.4
+2024-04-12,Converse Chuck Taylor,Kicks Kingdom,214.43,0.0204,4.37
+2024-03-05,New Balance 574,Shoe Sanctuary,225.15,0.18420000000000003,41.47
+2024-04-25,Vans Old Skool,Footwear Emporium,176.93,0.0239,4.23
+2024-03-05,Vans Old Skool,Sole Central,203.83,0.07730000000000001,15.76
+2024-04-16,Nike Air Max,Sneaker Haven,296.84,0.2812,83.47
+2024-04-11,Vans Old Skool,Kicks Kingdom,191.93,0.050199999999999995,9.63
+2024-03-14,Adidas Stan Smith,Footwear Emporium,242.84,0.1479,35.92
+2024-04-18,New Balance 574,Sneaker Haven,239.44,0.221,52.92
+2024-02-26,Brooks Ghost,Footwear Emporium,189.92,0.06559999999999999,12.46
+2024-04-11,Puma Suede,Shoe Sanctuary,222.19,0.2114,46.97
+2024-02-23,Mizuno Wave Rider,Footwear Emporium,255.02,0.0269,6.86
+2024-04-29,Brooks Ghost,Shoe Sanctuary,170.85,0.22640000000000002,38.68
+2024-05-01,Adidas Stan Smith,Sneaker Haven,237.29,0.1025,24.32
+2024-02-14,Asics Gel-Kayano,Footwear Emporium,241.42,0.032,7.73
+2024-02-08,New Balance 574,Footwear Emporium,226.99,0.038599999999999995,8.76
+2024-02-28,Vans Old Skool,Kicks Kingdom,203.99,0.2992,61.03
+2024-02-22,Mizuno Wave Rider,Kicks Kingdom,264.08,0.023,6.07
+2024-04-25,Puma Suede,Shoe Sanctuary,210.03,0.2827,59.38
+2024-04-27,New Balance 574,Shoe Sanctuary,233.91,0.0746,17.45
+2024-04-19,Adidas Stan Smith,Footwear Emporium,256.02,0.24960000000000002,63.9
+2024-02-24,Adidas Stan Smith,Sneaker Haven,260.79,0.1549,40.4
+2024-04-09,Puma Suede,Kicks Kingdom,211.47,0.051399999999999994,10.87
+2024-05-05,Adidas Stan Smith,Sneaker Haven,252.65,0.1629,41.16
+2024-03-22,Adidas Stan Smith,Sneaker Haven,253.75,0.1766,44.81
+2024-03-27,New Balance 574,Sole Central,248.84,0.258,64.2
+2024-02-22,Adidas Stan Smith,Kicks Kingdom,235.4,0.1801,42.4
+2024-04-27,Nike Air Max,Sole Central,289.65,0.0395,11.44
+2024-04-21,Mizuno Wave Rider,Shoe Sanctuary,262.78,0.031400000000000004,8.25
+2024-02-13,Brooks Ghost,Footwear Emporium,187.89,0.2095,39.36
+2024-03-06,Converse Chuck Taylor,Shoe Sanctuary,196.81,0.2484,48.89
+2024-04-05,Converse Chuck Taylor,Kicks Kingdom,199.94,0.251,50.18
+2024-04-17,Converse Chuck Taylor,Kicks Kingdom,189.59,0.091,17.25
+2024-02-15,Puma Suede,Sole Central,202.23,0.28600000000000003,57.84
+2024-04-10,Brooks Ghost,Kicks Kingdom,191.49,0.0947,18.13
+2024-03-25,Vans Old Skool,Sole Central,201.79,0.083,16.75
+2024-04-30,Reebok Classic Leather,Footwear Emporium,224.16,0.0098,2.2
+2024-02-12,Asics Gel-Kayano,Shoe Sanctuary,242.88,0.19269999999999998,46.8
+2024-04-24,Mizuno Wave Rider,Shoe Sanctuary,270.86,0.004,1.08
+2024-04-19,Nike Air Max,Kicks Kingdom,307.0,0.0454,13.94
+2024-03-10,Brooks Ghost,Sneaker Haven,193.17,0.239,46.17
+2024-03-21,Puma Suede,Shoe Sanctuary,203.7,0.2089,42.55
+2024-03-05,Brooks Ghost,Sole Central,182.07,0.24780000000000002,45.12
+2024-03-25,Nike Air Max,Kicks Kingdom,303.58,0.1474,44.75
+2024-02-21,Adidas Stan Smith,Footwear Emporium,255.4,0.1955,49.93
+2024-02-08,Puma Suede,Sneaker Haven,221.05,0.0222,4.91
+2024-03-18,Brooks Ghost,Sneaker Haven,178.4,0.2593,46.26
+2024-02-26,Vans Old Skool,Shoe Sanctuary,188.01,0.0501,9.42
+2024-05-01,Converse Chuck Taylor,Sole Central,196.15,0.10189999999999999,19.99
+2024-03-14,Reebok Classic Leather,Kicks Kingdom,218.33,0.21539999999999998,47.03
+2024-03-01,Nike Air Max,Sole Central,307.33,0.033,10.14
+2024-05-02,Converse Chuck Taylor,Shoe Sanctuary,210.72,0.2279,48.02
+2024-04-28,Nike Air Max,Sneaker Haven,313.28,0.021,6.58
+2024-03-14,Asics Gel-Kayano,Shoe Sanctuary,218.02,0.226,49.27
+2024-03-05,Mizuno Wave Rider,Kicks Kingdom,255.44,0.06860000000000001,17.52
+2024-04-19,Reebok Classic Leather,Kicks Kingdom,234.98,0.1134,26.65
+2024-02-25,Mizuno Wave Rider,Sneaker Haven,262.66,0.0141,3.7
+2024-03-07,Adidas Stan Smith,Shoe Sanctuary,257.71,0.17059999999999997,43.97
+2024-02-14,Asics Gel-Kayano,Sole Central,240.81,0.0694,16.71
+2024-04-19,Mizuno Wave Rider,Footwear Emporium,279.98,0.094,26.32
+2024-05-03,Converse Chuck Taylor,Sneaker Haven,193.65,0.2766,53.56
+2024-02-29,Reebok Classic Leather,Sole Central,219.64,0.0501,11.0
+2024-05-04,Converse Chuck Taylor,Footwear Emporium,192.09,0.2262,43.45
+2024-04-29,Vans Old Skool,Sneaker Haven,184.73,0.2785,51.45
+2024-05-04,Asics Gel-Kayano,Kicks Kingdom,220.98,0.2675,59.11
+2024-03-08,Nike Air Max,Sneaker Haven,291.92,0.1935,56.49
+2024-02-18,Adidas Stan Smith,Kicks Kingdom,242.53,0.2426,58.84
+2024-04-17,Reebok Classic Leather,Kicks Kingdom,222.2,0.23670000000000002,52.59
+2024-05-03,New Balance 574,Footwear Emporium,241.91,0.2864,69.28
+2024-04-30,Vans Old Skool,Sneaker Haven,176.41,0.2403,42.39
+2024-02-26,Puma Suede,Kicks Kingdom,205.61,0.0753,15.48
+2024-02-17,Puma Suede,Kicks Kingdom,203.13,0.2022,41.07
+2024-04-08,Adidas Stan Smith,Sneaker Haven,245.33,0.0882,21.64
+2024-03-08,Mizuno Wave Rider,Sole Central,269.92,0.2663,71.88
+2024-02-27,Converse Chuck Taylor,Shoe Sanctuary,190.88,0.1564,29.85
+2024-02-20,Nike Air Max,Kicks Kingdom,287.51,0.0075,2.16
+2024-05-04,Vans Old Skool,Sneaker Haven,185.91,0.2561,47.61
+2024-04-08,Reebok Classic Leather,Kicks Kingdom,207.43,0.17600000000000002,36.51
+2024-02-21,Converse Chuck Taylor,Sneaker Haven,213.43,0.2685,57.31
+2024-03-20,Adidas Stan Smith,Shoe Sanctuary,239.89,0.008100000000000001,1.94
+2024-03-02,Adidas Stan Smith,Sole Central,258.06,0.22920000000000001,59.15
+2024-04-01,Brooks Ghost,Footwear Emporium,187.1,0.21960000000000002,41.09
+2024-04-12,New Balance 574,Shoe Sanctuary,233.63,0.17170000000000002,40.11
+2024-04-05,Vans Old Skool,Shoe Sanctuary,182.32,0.15039999999999998,27.42
+2024-04-06,Asics Gel-Kayano,Footwear Emporium,223.66,0.1754,39.23
+2024-02-08,Brooks Ghost,Kicks Kingdom,185.18,0.2749,50.91
+2024-03-07,Converse Chuck Taylor,Sole Central,213.67,0.11359999999999999,24.27
+2024-05-05,Brooks Ghost,Shoe Sanctuary,180.91,0.1096,19.83
+2024-03-04,Puma Suede,Kicks Kingdom,201.22,0.267,53.73
+2024-04-30,New Balance 574,Footwear Emporium,249.02,0.2866,71.37
+2024-03-29,Asics Gel-Kayano,Kicks Kingdom,235.43,0.0635,14.95
+2024-02-22,Vans Old Skool,Footwear Emporium,182.31,0.0355,6.47
+2024-03-23,Puma Suede,Kicks Kingdom,202.93,0.2182,44.28
+2024-04-10,Puma Suede,Sneaker Haven,195.96,0.16620000000000001,32.57
+2024-03-29,Puma Suede,Sneaker Haven,210.21,0.0851,17.89
+2024-04-05,Nike Air Max,Sole Central,306.91,0.0659,20.23
+2024-03-25,Puma Suede,Sole Central,209.77,0.2895,60.73
+2024-03-06,Mizuno Wave Rider,Kicks Kingdom,264.58,0.1974,52.23
+2024-05-03,Asics Gel-Kayano,Shoe Sanctuary,224.79,0.1585,35.63
+2024-04-06,Adidas Stan Smith,Sneaker Haven,237.3,0.2616,62.08
+2024-04-14,New Balance 574,Sneaker Haven,234.83,0.0781,18.34
+2024-02-23,New Balance 574,Shoe Sanctuary,241.8,0.1097,26.53
+2024-02-14,Vans Old Skool,Shoe Sanctuary,202.31,0.1673,33.85
+2024-03-06,Vans Old Skool,Sole Central,187.14,0.0836,15.64
+2024-04-27,Brooks Ghost,Shoe Sanctuary,179.43,0.1934,34.7
+2024-02-16,Puma Suede,Sneaker Haven,201.89,0.2953,59.62
+2024-03-01,Nike Air Max,Sneaker Haven,314.99,0.17420000000000002,54.87
+2024-03-26,Adidas Stan Smith,Kicks Kingdom,258.02,0.2306,59.5
+2024-03-07,New Balance 574,Shoe Sanctuary,242.87,0.0666,16.18
+2024-04-18,Brooks Ghost,Kicks Kingdom,174.55,0.2761,48.19
+2024-03-01,Asics Gel-Kayano,Sneaker Haven,215.15,0.2673,57.51
+2024-03-16,New Balance 574,Kicks Kingdom,238.42,0.0177,4.22
+2024-03-12,Brooks Ghost,Sole Central,191.48,0.0698,13.37
+2024-02-16,Brooks Ghost,Footwear Emporium,187.12,0.0679,12.71
+2024-02-22,Nike Air Max,Shoe Sanctuary,312.99,0.1888,59.09
+2024-02-21,Puma Suede,Footwear Emporium,213.61,0.2004,42.81
+2024-03-29,Mizuno Wave Rider,Shoe Sanctuary,283.72,0.1117,31.69
+2024-04-21,Nike Air Max,Footwear Emporium,303.96,0.2661,80.88
+2024-04-17,Brooks Ghost,Kicks Kingdom,179.95,0.1664,29.94
+2024-03-22,Reebok Classic Leather,Sole Central,213.03,0.1025,21.84
+2024-05-04,Puma Suede,Kicks Kingdom,209.55,0.0625,13.1
+2024-04-22,New Balance 574,Kicks Kingdom,245.93,0.0083,2.04
+2024-02-21,Adidas Stan Smith,Sole Central,236.03,0.1797,42.41
+2024-03-24,Nike Air Max,Sole Central,307.88,0.0199,6.13
+2024-03-12,Asics Gel-Kayano,Sole Central,241.94,0.12300000000000001,29.76
+2024-02-26,Adidas Stan Smith,Sneaker Haven,264.74,0.0712,18.85
+2024-04-20,Adidas Stan Smith,Footwear Emporium,254.83,0.050499999999999996,12.87
+2024-04-10,Converse Chuck Taylor,Sole Central,186.56,0.17620000000000002,32.87
+2024-02-24,Nike Air Max,Sneaker Haven,295.09,0.2815,83.07
+2024-03-29,Asics Gel-Kayano,Footwear Emporium,235.95,0.0888,20.95
+2024-04-23,Converse Chuck Taylor,Footwear Emporium,201.28,0.23559999999999998,47.42
+2024-03-16,Converse Chuck Taylor,Sneaker Haven,204.9,0.1142,23.4
+2024-03-09,Reebok Classic Leather,Sneaker Haven,208.4,0.1821,37.95
+2024-02-09,Brooks Ghost,Footwear Emporium,192.63,0.0273,5.26
+2024-03-15,Reebok Classic Leather,Footwear Emporium,206.9,0.27940000000000004,57.81
+2024-02-25,Asics Gel-Kayano,Sole Central,230.51,0.0304,7.01
+2024-04-24,Puma Suede,Sole Central,222.05,0.19260000000000002,42.77
+2024-02-10,Converse Chuck Taylor,Sneaker Haven,213.22,0.20120000000000002,42.9
+2024-04-23,Vans Old Skool,Footwear Emporium,203.56,0.12789999999999999,26.04
+2024-02-25,Adidas Stan Smith,Sneaker Haven,236.47,0.12119999999999999,28.66
+2024-03-16,Converse Chuck Taylor,Shoe Sanctuary,213.32,0.19329999999999997,41.23
+2024-04-08,Adidas Stan Smith,Sole Central,263.92,0.2211,58.35
+2024-02-07,Asics Gel-Kayano,Shoe Sanctuary,221.15,0.0999,22.09
+2024-04-16,Converse Chuck Taylor,Kicks Kingdom,201.52,0.09029999999999999,18.2
+2024-04-30,Brooks Ghost,Footwear Emporium,184.04,0.015600000000000001,2.87
+2024-03-29,Mizuno Wave Rider,Sole Central,278.41,0.055,15.31
+2024-03-30,Reebok Classic Leather,Footwear Emporium,230.18,0.2993,68.89
+2024-05-03,Brooks Ghost,Kicks Kingdom,183.22,0.053399999999999996,9.78
+2024-04-20,Brooks Ghost,Kicks Kingdom,190.94,0.2776,53.0
+2024-03-27,Vans Old Skool,Kicks Kingdom,186.89,0.1679,31.38
+2024-02-25,Reebok Classic Leather,Footwear Emporium,228.85,0.2167,49.59
+2024-03-23,New Balance 574,Sole Central,235.23,0.2352,55.33
+2024-02-22,Mizuno Wave Rider,Sole Central,281.24,0.2853,80.24
+2024-03-30,Puma Suede,Kicks Kingdom,201.83,0.2845,57.42
+2024-03-14,Converse Chuck Taylor,Footwear Emporium,191.17,0.1251,23.92
+2024-04-08,New Balance 574,Sole Central,228.99,0.11349999999999999,25.99
+2024-05-05,Nike Air Max,Sneaker Haven,296.63,0.2601,77.15
+2024-04-12,New Balance 574,Shoe Sanctuary,243.38,0.2823,68.71
+2024-02-22,Converse Chuck Taylor,Footwear Emporium,195.44,0.1253,24.49
+2024-04-19,Brooks Ghost,Sneaker Haven,191.99,0.2998,57.56
+2024-02-14,Mizuno Wave Rider,Shoe Sanctuary,274.34,0.2065,56.65
+2024-03-11,Converse Chuck Taylor,Sole Central,203.37,0.0704,14.32
+2024-02-07,Adidas Stan Smith,Footwear Emporium,252.47,0.051500000000000004,13.0
+2024-04-04,Adidas Stan Smith,Sneaker Haven,262.16,0.10099999999999999,26.48
+2024-03-29,Puma Suede,Kicks Kingdom,213.56,0.0642,13.71
+2024-03-27,Vans Old Skool,Shoe Sanctuary,204.61,0.1888,38.63
+2024-02-20,Asics Gel-Kayano,Shoe Sanctuary,220.52,0.19469999999999998,42.94
+2024-03-13,Mizuno Wave Rider,Sole Central,282.86,0.19030000000000002,53.83
+2024-03-23,Converse Chuck Taylor,Footwear Emporium,191.43,0.09849999999999999,18.86
+2024-03-25,Puma Suede,Kicks Kingdom,195.99,0.12269999999999999,24.05
+2024-05-02,Mizuno Wave Rider,Footwear Emporium,255.34,0.2913,74.38
+2024-02-10,Vans Old Skool,Shoe Sanctuary,203.44,0.0546,11.11
+2024-04-03,Adidas Stan Smith,Footwear Emporium,255.87,0.2703,69.16
+2024-02-26,Vans Old Skool,Footwear Emporium,187.16,0.053099999999999994,9.94
+2024-03-23,New Balance 574,Sole Central,241.68,0.1631,39.42
+2024-02-13,Mizuno Wave Rider,Sneaker Haven,284.45,0.1162,33.05
+2024-05-05,Adidas Stan Smith,Footwear Emporium,252.11,0.0098,2.47
+2024-03-08,Nike Air Max,Kicks Kingdom,303.83,0.23850000000000002,72.46
+2024-02-10,Converse Chuck Taylor,Kicks Kingdom,200.7,0.0079,1.59
+2024-02-21,Puma Suede,Kicks Kingdom,218.43,0.248,54.17
+2024-04-03,Converse Chuck Taylor,Sole Central,186.23,0.1893,35.25
+2024-05-01,Asics Gel-Kayano,Sole Central,238.2,0.2801,66.72
+2024-02-17,Brooks Ghost,Sole Central,170.17,0.2484,42.27
+2024-02-24,Brooks Ghost,Shoe Sanctuary,165.46,0.1433,23.71
+2024-03-24,New Balance 574,Sneaker Haven,226.03,0.1975,44.64
+2024-03-22,Reebok Classic Leather,Sneaker Haven,214.63,0.139,29.83
+2024-02-09,New Balance 574,Sole Central,252.68,0.1014,25.62
+2024-03-11,Mizuno Wave Rider,Sneaker Haven,263.97,0.0696,18.37
+2024-04-20,Adidas Stan Smith,Kicks Kingdom,236.76,0.057999999999999996,13.73
+2024-03-05,Nike Air Max,Footwear Emporium,297.02,0.026699999999999998,7.93
+2024-03-25,Brooks Ghost,Sneaker Haven,167.04,0.0079,1.32
+2024-03-24,Brooks Ghost,Sneaker Haven,180.65,0.0655,11.83
+2024-02-26,Mizuno Wave Rider,Shoe Sanctuary,260.34,0.0894,23.27
+2024-02-21,Reebok Classic Leather,Sneaker Haven,213.26,0.2591,55.26
+2024-02-21,New Balance 574,Kicks Kingdom,225.73,0.1698,38.33
+2024-04-22,Brooks Ghost,Sole Central,194.82,0.28,54.55
+2024-03-12,Nike Air Max,Kicks Kingdom,313.78,0.1654,51.9
+2024-03-01,Puma Suede,Footwear Emporium,224.57,0.10890000000000001,24.46
+2024-04-22,Mizuno Wave Rider,Footwear Emporium,264.83,0.0986,26.11
+2024-02-26,Mizuno Wave Rider,Sole Central,272.78,0.0069,1.88
+2024-04-10,Adidas Stan Smith,Sole Central,253.88,0.19260000000000002,48.9
+2024-03-23,Nike Air Max,Footwear Emporium,296.32,0.2511,74.41
+2024-03-16,Brooks Ghost,Footwear Emporium,169.57,0.1134,19.23
+2024-04-07,Reebok Classic Leather,Sole Central,220.64,0.046900000000000004,10.35
+2024-03-11,Mizuno Wave Rider,Footwear Emporium,273.57,0.2257,61.74
+2024-03-22,Brooks Ghost,Shoe Sanctuary,188.2,0.01,1.88
+2024-04-12,Asics Gel-Kayano,Shoe Sanctuary,226.76,0.0144,3.27
+2024-02-18,Brooks Ghost,Footwear Emporium,189.95,0.1924,36.55
+2024-05-03,New Balance 574,Kicks Kingdom,250.54,0.1562,39.13
+2024-05-02,Converse Chuck Taylor,Sneaker Haven,212.83,0.2562,54.53
+2024-03-14,Nike Air Max,Footwear Emporium,314.39,0.20370000000000002,64.04
+2024-04-09,Brooks Ghost,Shoe Sanctuary,169.24,0.24789999999999998,41.95
+2024-04-05,Nike Air Max,Shoe Sanctuary,311.99,0.2933,91.51
+2024-04-04,Converse Chuck Taylor,Shoe Sanctuary,200.13,0.162,32.42
+2024-02-16,Puma Suede,Kicks Kingdom,212.06,0.0705,14.95
+2024-04-11,Reebok Classic Leather,Sneaker Haven,234.39,0.1757,41.18
+2024-02-10,Reebok Classic Leather,Footwear Emporium,234.18,0.1551,36.32
+2024-05-03,Mizuno Wave Rider,Kicks Kingdom,269.62,0.0591,15.93
+2024-04-06,Brooks Ghost,Shoe Sanctuary,166.17,0.0779,12.94
+2024-02-20,Adidas Stan Smith,Footwear Emporium,255.74,0.1586,40.56
+2024-04-23,Reebok Classic Leather,Footwear Emporium,230.44,0.0027,0.62
+2024-04-11,Mizuno Wave Rider,Sole Central,276.32,0.0046,1.27
+2024-02-28,Nike Air Max,Shoe Sanctuary,313.66,0.2268,71.14
+2024-05-03,Converse Chuck Taylor,Footwear Emporium,212.38,0.2934,62.31
+2024-03-09,Adidas Stan Smith,Sole Central,242.53,0.20370000000000002,49.4
+2024-04-26,Vans Old Skool,Footwear Emporium,193.61,0.0287,5.56
+2024-02-16,Puma Suede,Sole Central,212.79,0.1499,31.9
+2024-04-09,Brooks Ghost,Footwear Emporium,173.44,0.18739999999999998,32.5
+2024-04-08,Converse Chuck Taylor,Sneaker Haven,191.64,0.20010000000000003,38.35
+2024-04-19,Reebok Classic Leather,Shoe Sanctuary,230.06,0.12960000000000002,29.82
+2024-04-29,Reebok Classic Leather,Shoe Sanctuary,214.07,0.18359999999999999,39.3
+2024-03-08,Reebok Classic Leather,Footwear Emporium,207.09,0.045599999999999995,9.44
+2024-04-28,Asics Gel-Kayano,Kicks Kingdom,229.36,0.0711,16.31
+2024-03-30,Mizuno Wave Rider,Sole Central,274.39,0.0361,9.91
+2024-02-27,Vans Old Skool,Sole Central,182.59,0.1278,23.34
+2024-02-22,Nike Air Max,Kicks Kingdom,307.92,0.2429,74.79
+2024-03-11,Brooks Ghost,Sole Central,188.11,0.1857,34.93
+2024-04-17,Nike Air Max,Sneaker Haven,288.83,0.2967,85.7
+2024-03-20,Brooks Ghost,Kicks Kingdom,177.84,0.0956,17.0
+2024-03-18,Puma Suede,Footwear Emporium,201.35,0.2633,53.02
+2024-03-08,Mizuno Wave Rider,Sole Central,272.89,0.2707,73.87
+2024-03-05,Mizuno Wave Rider,Sneaker Haven,259.02,0.20129999999999998,52.14
+2024-02-15,Brooks Ghost,Sole Central,165.37,0.037000000000000005,6.12
+2024-03-06,Adidas Stan Smith,Shoe Sanctuary,245.75,0.0592,14.55
+2024-03-13,Vans Old Skool,Sole Central,182.33,0.2263,41.26
+2024-04-26,Nike Air Max,Sole Central,292.56,0.0999,29.23
+2024-04-06,Reebok Classic Leather,Sole Central,205.12,0.0754,15.47
+2024-04-09,Asics Gel-Kayano,Shoe Sanctuary,222.3,0.15810000000000002,35.15
+2024-04-26,Asics Gel-Kayano,Kicks Kingdom,234.13,0.1928,45.14
+2024-03-15,Brooks Ghost,Footwear Emporium,183.68,0.10859999999999999,19.95
+2024-04-16,Converse Chuck Taylor,Kicks Kingdom,194.59,0.29469999999999996,57.35
+2024-02-25,Reebok Classic Leather,Kicks Kingdom,210.72,0.273,57.53
+2024-03-01,New Balance 574,Shoe Sanctuary,247.45,0.023799999999999998,5.89
+2024-03-06,New Balance 574,Shoe Sanctuary,251.89,0.0678,17.08
+2024-03-10,Nike Air Max,Kicks Kingdom,303.77,0.19399999999999998,58.93
+2024-03-11,Nike Air Max,Shoe Sanctuary,302.82,0.09449999999999999,28.62
+2024-04-18,Reebok Classic Leather,Footwear Emporium,206.53,0.07919999999999999,16.36
+2024-02-19,Adidas Stan Smith,Kicks Kingdom,253.62,0.1217,30.87
+2024-03-10,Mizuno Wave Rider,Sole Central,274.54,0.1685,46.26
+2024-02-24,Reebok Classic Leather,Kicks Kingdom,219.81,0.1351,29.7
+2024-03-28,Brooks Ghost,Footwear Emporium,174.65,0.0036,0.63
+2024-03-27,Mizuno Wave Rider,Shoe Sanctuary,282.38,0.22949999999999998,64.81
+2024-02-16,Mizuno Wave Rider,Sneaker Haven,273.61,0.1852,50.67
+2024-04-24,New Balance 574,Sneaker Haven,247.52,0.29760000000000003,73.66
+2024-02-13,Vans Old Skool,Shoe Sanctuary,177.22,0.1467,26.0
+2024-03-25,Mizuno Wave Rider,Sole Central,266.29,0.0783,20.85
+2024-03-30,New Balance 574,Shoe Sanctuary,243.25,0.1288,31.33
+2024-02-06,Mizuno Wave Rider,Sneaker Haven,277.75,0.1222,33.94
+2024-05-01,Converse Chuck Taylor,Sneaker Haven,211.83,0.1586,33.6
+2024-04-05,New Balance 574,Sole Central,237.16,0.0381,9.04
+2024-04-13,Reebok Classic Leather,Kicks Kingdom,213.88,0.2838,60.7
+2024-02-21,New Balance 574,Shoe Sanctuary,236.94,0.2695,63.86
+2024-03-02,Reebok Classic Leather,Footwear Emporium,206.17,0.2786,57.44
+2024-03-19,Reebok Classic Leather,Footwear Emporium,233.65,0.2751,64.28
+2024-04-17,Mizuno Wave Rider,Sneaker Haven,284.58,0.1406,40.01
+2024-04-19,Asics Gel-Kayano,Sneaker Haven,215.77,0.054900000000000004,11.85
+2024-04-24,Adidas Stan Smith,Shoe Sanctuary,243.27,0.045899999999999996,11.17
+2024-05-04,Mizuno Wave Rider,Shoe Sanctuary,282.32,0.1349,38.08
+2024-03-26,Reebok Classic Leather,Kicks Kingdom,220.52,0.10300000000000001,22.71
+2024-05-05,New Balance 574,Sneaker Haven,231.42,0.0868,20.09
+2024-03-28,Mizuno Wave Rider,Sneaker Haven,281.69,0.1494,42.08
+2024-04-02,Converse Chuck Taylor,Sole Central,204.29,0.0397,8.11
+2024-03-28,Reebok Classic Leather,Sneaker Haven,213.72,0.247,52.79
+2024-04-18,Vans Old Skool,Sole Central,189.24,0.0408,7.72
+2024-04-19,New Balance 574,Sneaker Haven,234.49,0.08869999999999999,20.8
+2024-04-24,Adidas Stan Smith,Kicks Kingdom,255.36,0.17190000000000003,43.9
+2024-02-14,Puma Suede,Footwear Emporium,212.6,0.2506,53.28
+2024-02-19,Nike Air Max,Sole Central,293.8,0.11810000000000001,34.7
+2024-02-14,Brooks Ghost,Shoe Sanctuary,170.89,0.08109999999999999,13.86
+2024-04-29,Converse Chuck Taylor,Footwear Emporium,205.11,0.1411,28.94
+2024-03-06,Asics Gel-Kayano,Sole Central,242.48,0.1655,40.13
+2024-03-04,Asics Gel-Kayano,Footwear Emporium,239.91,0.1917,45.99
+2024-04-16,Reebok Classic Leather,Sole Central,209.04,0.14,29.27
+2024-03-17,Adidas Stan Smith,Sole Central,247.55,0.0819,20.27
+2024-03-15,Puma Suede,Footwear Emporium,217.25,0.0738,16.03
+2024-04-06,Asics Gel-Kayano,Sneaker Haven,240.07,0.052300000000000006,12.56
+2024-04-20,Brooks Ghost,Kicks Kingdom,171.86,0.0771,13.25
+2024-02-19,New Balance 574,Footwear Emporium,251.08,0.1414,35.5
+2024-03-26,Converse Chuck Taylor,Sole Central,212.3,0.2546,54.05
+2024-04-13,Mizuno Wave Rider,Kicks Kingdom,276.17,0.174,48.05
+2024-02-12,Asics Gel-Kayano,Sneaker Haven,233.53,0.06570000000000001,15.34
+2024-04-18,Asics Gel-Kayano,Shoe Sanctuary,220.92,0.1932,42.68
+2024-04-03,Brooks Ghost,Shoe Sanctuary,178.3,0.0483,8.61
+2024-04-21,Reebok Classic Leather,Sneaker Haven,226.57,0.0,0.0
+2024-04-03,New Balance 574,Footwear Emporium,250.97,0.0795,19.95
+2024-05-02,Nike Air Max,Sole Central,312.25,0.14029999999999998,43.81
+2024-02-13,Adidas Stan Smith,Shoe Sanctuary,236.61,0.08960000000000001,21.2
+2024-03-18,Vans Old Skool,Sneaker Haven,202.59,0.1959,39.69
+2024-03-03,Mizuno Wave Rider,Sole Central,283.12,0.21530000000000002,60.96
+2024-04-19,Reebok Classic Leather,Footwear Emporium,230.24,0.1162,26.75
+2024-03-13,Mizuno Wave Rider,Shoe Sanctuary,281.06,0.19149999999999998,53.82
+2024-03-18,New Balance 574,Sole Central,232.99,0.1787,41.64
+2024-02-10,Nike Air Max,Sneaker Haven,291.8,0.2249,65.63
+2024-03-31,Puma Suede,Sneaker Haven,218.66,0.21,45.92
+2024-02-16,Brooks Ghost,Sole Central,187.84,0.0818,15.37
+2024-05-02,Nike Air Max,Shoe Sanctuary,312.69,0.1376,43.03
+2024-05-01,Adidas Stan Smith,Shoe Sanctuary,246.31,0.008100000000000001,2.0
+2024-04-27,Vans Old Skool,Sneaker Haven,179.86,0.0352,6.33
+2024-04-25,Reebok Classic Leather,Sole Central,212.69,0.2501,53.19
+2024-04-08,Reebok Classic Leather,Footwear Emporium,213.87,0.2932,62.71
+2024-03-13,Asics Gel-Kayano,Sole Central,229.77,0.0437,10.04
+2024-04-16,Vans Old Skool,Shoe Sanctuary,202.25,0.2519,50.95
+2024-04-30,Adidas Stan Smith,Footwear Emporium,263.64,0.0529,13.95
+2024-03-28,Puma Suede,Kicks Kingdom,222.27,0.084,18.67
+2024-04-15,Brooks Ghost,Sneaker Haven,191.21,0.0757,14.47
+2024-02-12,Vans Old Skool,Shoe Sanctuary,183.33,0.2024,37.11
+2024-04-22,Adidas Stan Smith,Footwear Emporium,260.68,0.16570000000000001,43.19
+2024-05-02,Vans Old Skool,Shoe Sanctuary,188.22,0.096,18.07
+2024-03-21,Converse Chuck Taylor,Footwear Emporium,188.42,0.0344,6.48
+2024-02-17,Asics Gel-Kayano,Kicks Kingdom,222.57,0.0805,17.92
+2024-02-13,New Balance 574,Shoe Sanctuary,246.95,0.2868,70.83
+2024-04-06,Asics Gel-Kayano,Footwear Emporium,232.68,0.2569,59.78
+2024-02-21,Asics Gel-Kayano,Sneaker Haven,235.21,0.24170000000000003,56.85
+2024-03-02,Adidas Stan Smith,Kicks Kingdom,237.54,0.25329999999999997,60.17
+2024-04-09,Mizuno Wave Rider,Footwear Emporium,256.02,0.106,27.14
+2024-02-16,Reebok Classic Leather,Footwear Emporium,225.56,0.1906,42.99
+2024-04-27,Brooks Ghost,Footwear Emporium,189.66,0.17379999999999998,32.96
+2024-03-19,Adidas Stan Smith,Sneaker Haven,250.48,0.1559,39.05
+2024-05-05,Brooks Ghost,Footwear Emporium,184.03,0.1367,25.16
+2024-04-28,Nike Air Max,Sole Central,301.79,0.1401,42.28
+2024-04-13,Vans Old Skool,Kicks Kingdom,181.56,0.08929999999999999,16.21
+2024-03-02,Adidas Stan Smith,Shoe Sanctuary,264.16,0.2487,65.7
+2024-04-12,Adidas Stan Smith,Sole Central,259.08,0.272,70.47
+2024-03-26,Vans Old Skool,Kicks Kingdom,187.88,0.08839999999999999,16.61
+2024-03-25,Brooks Ghost,Footwear Emporium,165.96,0.19140000000000001,31.76
+2024-02-15,Nike Air Max,Kicks Kingdom,289.38,0.22390000000000002,64.79
+2024-04-21,Reebok Classic Leather,Footwear Emporium,226.49,0.10060000000000001,22.78
+2024-02-10,Nike Air Max,Kicks Kingdom,312.56,0.1112,34.76
+2024-02-11,Adidas Stan Smith,Sole Central,245.5,0.1219,29.93
+2024-03-19,Converse Chuck Taylor,Shoe Sanctuary,195.26,0.0159,3.1
+2024-02-07,Brooks Ghost,Sneaker Haven,168.96,0.0223,3.77
+2024-04-24,Mizuno Wave Rider,Sneaker Haven,255.22,0.1386,35.37
+2024-03-03,New Balance 574,Sole Central,249.91,0.1298,32.44
+2024-02-29,Vans Old Skool,Sole Central,186.19,0.2108,39.25
+2024-03-11,Adidas Stan Smith,Sneaker Haven,259.22,0.08900000000000001,23.07
+2024-02-28,Puma Suede,Footwear Emporium,213.4,0.2986,63.72
+2024-03-15,New Balance 574,Sneaker Haven,229.53,0.015700000000000002,3.6
+2024-02-28,Converse Chuck Taylor,Sole Central,208.78,0.2191,45.74
+2024-04-14,Adidas Stan Smith,Footwear Emporium,254.64,0.1938,49.35
+2024-04-01,Vans Old Skool,Kicks Kingdom,195.44,0.1014,19.82
+2024-02-25,New Balance 574,Sneaker Haven,249.01,0.1463,36.43
+2024-04-27,Reebok Classic Leather,Kicks Kingdom,231.2,0.0839,19.4
+2024-04-18,New Balance 574,Sneaker Haven,229.4,0.061200000000000004,14.04
+2024-03-14,Asics Gel-Kayano,Kicks Kingdom,236.45,0.06860000000000001,16.22
+2024-03-29,Nike Air Max,Shoe Sanctuary,300.31,0.2141,64.3
+2024-04-13,New Balance 574,Sneaker Haven,241.73,0.2854,68.99
+2024-03-14,Asics Gel-Kayano,Sneaker Haven,243.85,0.182,44.38
+2024-03-25,Nike Air Max,Sole Central,312.26,0.21359999999999998,66.7
+2024-04-24,Mizuno Wave Rider,Sneaker Haven,266.29,0.255,67.9
+2024-04-20,Converse Chuck Taylor,Footwear Emporium,205.51,0.213,43.77
+2024-03-05,Mizuno Wave Rider,Sneaker Haven,275.64,0.1795,49.48
+2024-03-21,Mizuno Wave Rider,Sole Central,260.17,0.2799,72.82
+2024-04-10,Adidas Stan Smith,Sneaker Haven,252.75,0.1703,43.04
+2024-04-11,Converse Chuck Taylor,Shoe Sanctuary,201.49,0.1902,38.32
+2024-03-10,Vans Old Skool,Footwear Emporium,193.56,0.0195,3.77
+2024-03-21,Adidas Stan Smith,Sole Central,237.24,0.21280000000000002,50.48
+2024-02-08,Converse Chuck Taylor,Sole Central,191.38,0.0662,12.67
+2024-04-20,Reebok Classic Leather,Footwear Emporium,208.77,0.20850000000000002,43.53
+2024-03-01,Vans Old Skool,Kicks Kingdom,193.51,0.2045,39.57
+2024-04-22,Vans Old Skool,Shoe Sanctuary,189.15,0.2352,44.49
+2024-05-03,Puma Suede,Shoe Sanctuary,217.86,0.057699999999999994,12.57
+2024-03-05,Adidas Stan Smith,Footwear Emporium,256.46,0.061500000000000006,15.77
+2024-02-27,Vans Old Skool,Footwear Emporium,182.81,0.2118,38.72
+2024-04-30,Converse Chuck Taylor,Kicks Kingdom,207.91,0.2235,46.47
+2024-03-06,Nike Air Max,Shoe Sanctuary,301.07,0.2897,87.22
+2024-03-25,Puma Suede,Footwear Emporium,202.74,0.0487,9.87
+2024-02-18,Adidas Stan Smith,Sneaker Haven,236.04,0.2518,59.43
+2024-04-29,Mizuno Wave Rider,Sneaker Haven,278.0,0.035,9.73
+2024-04-04,Adidas Stan Smith,Footwear Emporium,246.37,0.1769,43.58
+2024-05-05,New Balance 574,Footwear Emporium,226.11,0.2112,47.75
+2024-02-21,New Balance 574,Kicks Kingdom,234.35,0.2709,63.49
+2024-04-15,Nike Air Max,Sole Central,302.13,0.050300000000000004,15.2
+2024-04-16,Nike Air Max,Shoe Sanctuary,293.69,0.2728,80.12
+2024-02-13,New Balance 574,Kicks Kingdom,238.75,0.10640000000000001,25.4
+2024-04-01,Reebok Classic Leather,Sole Central,217.7,0.1463,31.85
+2024-03-23,Adidas Stan Smith,Sneaker Haven,255.4,0.1928,49.24
+2024-02-16,Brooks Ghost,Footwear Emporium,170.07,0.15259999999999999,25.95
+2024-04-26,Vans Old Skool,Kicks Kingdom,179.66,0.0536,9.63
+2024-04-29,Brooks Ghost,Sneaker Haven,179.88,0.2395,43.08
+2024-02-15,New Balance 574,Sole Central,253.65,0.22190000000000001,56.28
+2024-04-26,New Balance 574,Sneaker Haven,235.05,0.20149999999999998,47.36
+2024-04-28,Vans Old Skool,Kicks Kingdom,193.28,0.2084,40.28
+2024-02-11,Adidas Stan Smith,Kicks Kingdom,241.06,0.17550000000000002,42.31
+2024-05-01,Nike Air Max,Sole Central,306.1,0.2268,69.42
+2024-03-05,Mizuno Wave Rider,Sole Central,279.96,0.0276,7.73
+2024-03-06,Brooks Ghost,Sole Central,170.88,0.0572,9.77
+2024-02-18,Brooks Ghost,Sneaker Haven,181.25,0.1744,31.61
+2024-03-20,Asics Gel-Kayano,Shoe Sanctuary,221.24,0.11720000000000001,25.93
+2024-04-08,Vans Old Skool,Shoe Sanctuary,202.25,0.2871,58.07
+2024-04-26,Adidas Stan Smith,Sneaker Haven,236.88,0.0767,18.17
+2024-03-14,Nike Air Max,Sneaker Haven,306.05,0.0007000000000000001,0.21
+2024-04-03,Nike Air Max,Sole Central,304.7,0.1986,60.51
+2024-04-10,Vans Old Skool,Kicks Kingdom,195.69,0.2413,47.22
+2024-04-04,Asics Gel-Kayano,Sneaker Haven,220.86,0.2762,61.0
+2024-04-20,Nike Air Max,Kicks Kingdom,287.19,0.2877,82.62
+2024-04-25,Vans Old Skool,Kicks Kingdom,194.53,0.17989999999999998,35.0
+2024-03-13,Mizuno Wave Rider,Shoe Sanctuary,279.87,0.1199,33.56
+2024-03-29,New Balance 574,Kicks Kingdom,249.47,0.1697,42.34
+2024-03-13,Adidas Stan Smith,Shoe Sanctuary,261.87,0.18760000000000002,49.13
+2024-04-07,Puma Suede,Kicks Kingdom,204.6,0.0758,15.51
+2024-02-24,Converse Chuck Taylor,Kicks Kingdom,200.19,0.1284,25.7
