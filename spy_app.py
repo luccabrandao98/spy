@@ -4,6 +4,7 @@ import os
 from sqlalchemy import create_engine, VARCHAR, Float, Date, text
 import pandas as pd
 from datetime import datetime
+import datetime as dti
 
 st.set_page_config(
     page_title='Spy App',
@@ -46,7 +47,8 @@ df = load_data()
 
 # Sidebar com os filtros
 st.sidebar.subheader("Filtre aqui :sunglasses:")
-start_date = st.sidebar.date_input("Data Inicial")
+
+start_date = st.sidebar.date_input(label="Data Inicial", value=dti.date(2024,1,1))
 end_date = st.sidebar.date_input("Data Final")
 
 selected_products = st.sidebar.multiselect("Selecione o Produto", df['product'].unique())
