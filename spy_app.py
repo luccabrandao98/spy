@@ -16,7 +16,7 @@ st.set_page_config(
 def load_data():
     # Replace 'your_username', 'your_password', and 'your_database' with your actual credentials
     username = 'lucca_brandao'
-    password = os.environ['spy_db_password']
+    password = st.secrets['db_password']
     database = 'spy_dpdh'
     host = 'dpg-coq36rkf7o1s73ea52eg-a.ohio-postgres.render.com'
 
